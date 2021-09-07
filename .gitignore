@@ -22,3 +22,8 @@ contrast
 .cache
 build
 *-out.jpg
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
